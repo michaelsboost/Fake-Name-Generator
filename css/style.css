@@ -1,0 +1,58 @@
+/* 
+  Version: 0.0.1
+  Fake Name Generator, copyright (c) by Michael Schwartz
+  Distributed under the MIT license: https://github.com/michaelsboost/Fake-Name-Generator/blob/gh-pages/LICENSE
+  This is Fake Credit Card Generator (https://michaelsboost.github.io/Fake-Name-Generator), A simple app that generates a fake name.
+*/
+
+/* globals */
+html, body {
+  height: 100%;
+  font-family: sans-serif;
+}
+
+/* header */
+.header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}
+.header svg {
+  width: 65px;
+}
+
+/* center horizontal & vertical */
+.table {
+  display: table;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+.cell {
+  display: table-cell;
+  vertical-align: middle;
+}
+.name {
+  font-size: 10vw;
+}
+
+/* footer */
+.sex {
+  cursor: pointer;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.sex svg {
+  height: 80px;
+}
+
+/* misc */
+.pad {
+  padding: 5px 10px;
+}
+.fr {
+  float: right;
+}
