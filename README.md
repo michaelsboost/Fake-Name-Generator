@@ -29,9 +29,6 @@ Fake Name Generator uses a small number of open source projects to work properly
 Development
 -------------
 
-Learn how I made this generator: 
-[https://www.udemy.com/course/fake-credit-card-generator/](https://www.udemy.com/course/fake-credit-card-generator/)
-
 Want to contribute? Great!  
 
 You can submit a pull request or simply share the project :)
